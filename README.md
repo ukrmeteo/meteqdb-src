@@ -1,5 +1,5 @@
 # meteqdb-src
-**Source Code** of METeorological measuring EQuipment DataBase
+**Source Code** of the METeorological measuring EQuipment DataBase
 
 ## Вихідний код ПЗ бази даних гідрометеорологічного вимірювального обладнання
 
