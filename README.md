@@ -1,2 +1,5 @@
 # meteqdb-src
-METeorological measuring EQuipment DataBase - Source
+**Source Code** of METeorological measuring EQuipment DataBase
+
+---
+&copy; 2022, [UHMC](https://meteo.gov.ua/)
